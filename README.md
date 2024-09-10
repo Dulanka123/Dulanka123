@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" alt="animated gif" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Dulanka</h1>
+<h1 align="center">Hi 👋, I'm Dulanka Gayan (Jabba)</h1>
 <h3 align="center">A Passionate Fullstack Developer from Srilanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dulanka123&label=Profile%20views&color=0e75b6&style=flat" alt="dulanka123" /> </p>
